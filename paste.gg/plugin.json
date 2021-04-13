@@ -1,0 +1,12 @@
+﻿{
+  "ID":"1306991f1a9b4dc0ad4715fc4e22b79e",
+  "ActionKeyword":"paste",
+  "Name":"pastegg",
+  "Description":"paste.gg plugin for wox",
+  "Author":"joshua",
+  "Version":"1.0.0",
+  "Language":"csharp",
+  "Website":"joshuaebert.de",
+  "IcoPath": "Resources\\icon.png",
+  "ExecuteFileName":"paste.gg.dll"
+}
